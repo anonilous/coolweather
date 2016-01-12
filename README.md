@@ -1,6 +1,8 @@
 # coolweather
 
-A customized weather app with a widget.
+## A customized weather app with a widget.
+
+### Create Database tables
 
 建立三张表，Province、City、County，分别
 用于存放省、市、县的各种数据信息，三张表的建表语句分别如下。

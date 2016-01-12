@@ -1,4 +1,4 @@
-package com.coolweather.app;
+package com.coolweather.app.activity;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -28,6 +28,8 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.coolweather.app.R;
 
 import java.util.ArrayList;
 import java.util.List;
